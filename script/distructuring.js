@@ -4,13 +4,12 @@
 // console.log(element3);
 
 // object distructuring ------------
-const person = {
-    name: 'hena',
-    age: 30,
-    country: 'bangladesh',
-    friend: ['jorena', 'sokina', 'josona']
-}
-const { name, age, country, friend } = person
-console.log(name);
-
-console.log(friend[0]);
+// const person = {
+//     name: 'hena',
+//     age: 30,
+//     country: 'bangladesh',
+//     friend: ['jorena', 'sokina', 'josona']
+// }
+// const { name, age, country, friend } = person
+// console.log(name);
+// console.log(friend[0]);
